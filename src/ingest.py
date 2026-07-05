@@ -13,7 +13,8 @@ from bs4 import BeautifulSoup
 
 BASE = "https://bloomington.in.gov"
 USER_AGENT = "civic-radar-learning-project/0.1"
-DATA_DIR = Path("data/raw/bloomington-council")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJECT_ROOT / "data/raw/bloomington-council"
 MANIFEST = DATA_DIR / "manifest.jsonl"
 
 logging.basicConfig(
@@ -168,4 +169,9 @@ if __name__ == "__main__":
 
     html = fetch_year_page(args.year)
     records = parse_meetings(html, args.year)
+
+    if not records:
+        log.error("Parsed 0 records for year %s. The site structure may have changed.", args.year)
+        raise SystemExit(1)
+
     download_new(records, args.year)
