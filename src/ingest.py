@@ -53,7 +53,7 @@ def parse_meetings(html: str, year: int) -> list[dict]:
         if row is None:
             continue
 
-        first_cell = row.find("td")
+        first_cell = row.find(["th", "td"])
         row_text = first_cell.get_text(" ", strip=True) if first_cell else ""
 
         m = re.match(
@@ -90,11 +90,7 @@ def parse_meetings(html: str, year: int) -> list[dict]:
                 "file_id": file_id,
                 "url": BASE + link["href"] if link["href"].startswith("/") else link["href"],
                 "meeting_date": meeting_date,
-                "meeting_title": re.sub(
-                    r"^\w+ \d{1,2}\s+[\d:apm ]+",
-                    "",
-                    row_text,
-                ).strip(),
+                "meeting_title": re.sub(r"^[A-Z][a-z]+ \d{1,2}\s+\d{1,2}:\d{2}\s*[ap]\.?m\.?\s*", "", row_text).strip(),
                 "doc_label": link.get_text(strip=True),
                 "doc_title": (link.get("title") or "")
                 .replace("Download '", "")
@@ -102,6 +98,15 @@ def parse_meetings(html: str, year: int) -> list[dict]:
             }
         )
 
+        undated = sum(1 for r in records if r["meeting_date"] is None)
+    if records and undated > len(records) / 2:
+        raise RuntimeError(
+            f"Parser tripwire: {undated}/{len(records)} records have no meeting_date — "
+            "the page structure has probably changed. Refusing to write bad metadata."
+        )
+    if undated:
+        log.warning(f"{undated}/{len(records)} records have no meeting_date")
+        
     return records
 
 
