@@ -1,0 +1,7 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 1097.05it/s]
+The retrieved documents do not contain an answer to this question.
+
+The excerpts provided cover Common Council meetings and packets from April through June 2026 and discuss topics like zoning districts, pedestrian mall logistics, and downtown strategies. They do not contain any information about a monorail contract from 2020 or any company that may have received such a contract.
+
+Sources: ['undated_packet_16709:p42:c1', 'undated_packet-2_16986:p24:c0', 'undated_packet-2_16761:p647:c1', 'undated_packet-3_16770:p515:c1', 'undated_packet-3_16910:p69:c0']

@@ -1,0 +1,7 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 1627.87it/s]
+The retrieved documents do not contain an answer to this question.
+
+The excerpts provided cover only meetings from June 2026 and do not contain any information about tax increases approved by the council in 2018. The documents do mention impacts of Senate Enrolled Act 1 (SEA1) and changes to Local Income Taxes made by the state [S1], but they do not specify when those changes occurred or provide details about 2018 tax actions.
+
+Sources: ['undated_packet_16980:p3:c0', 'undated_packet-3_16960:p5:c0', 'undated_packet_16987:p26:c1', 'undated_packet_16987:p19:c1', 'undated_packet_16980:p3:c2']

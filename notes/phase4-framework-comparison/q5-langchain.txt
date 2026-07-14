@@ -1,0 +1,16 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 2144.05it/s]
+Based on the excerpts provided, the following housing-related decision was made:
+
+**PUD Development Approval**: The Plan Commission voted 8-0 to forward a petition to the Common Council with a favorable recommendation for a planned unit development (PUD) that includes affordable housing components. Specifically, the development requires [S2]:
+
+- At least 50% of total dwelling units to be available to home buyers under 100% of the Area Median Income (AMI)
+- At least 15% of total dwelling units to be permanently income-limited to households earning less than 120% of AMI
+
+The Plan Commission also approved conditions of approval, including that [S2]:
+- Final plan approval for Block 8 shall be heard by the Plan Commission
+- Final plan approval for all other phases shall be delegated to staff
+
+The excerpts also reference a "Residential Housing Program" intended to incentivize development of additional single-family housing developments [S4], though specific decisions about this program are not detailed in the provided documents.
+
+Sources: ['undated_packet-2_16761:p846:c0', 'undated_packet-2_16761:p821:c1', 'undated_packet-2_16761:p779:c0', 'undated_packet_16709:p34:c1', 'undated_packet-3_16770:p5:c2']

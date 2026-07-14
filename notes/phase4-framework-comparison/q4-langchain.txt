@@ -1,0 +1,13 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 1786.08it/s]
+The retrieved documents do not contain an answer to this question.
+
+However, the excerpts DO cover several Committee on Council Processes and Interview Committee actions during April-June 2026, including:
+
+- [S1] Piedmont-Smith presented the Special Committee on Council Processes Annual Report on May 6, 2026
+- [S2], [S3], [S4] Interview Committee Team C meetings and actions regarding appointments to the Historic Preservation Commission and other boards
+- [S5] Interview Committee Team B meeting on June 3, 2026 regarding the Dr. MLK Birthday Celebration Commission
+
+If you have a more specific question about a particular committee or action, I can provide details from these documents.
+
+Sources: ['undated_packet-2_16761:p5:c1', 'undated_memorandum_16661:p1:c0', 'undated_memorandum_16744:p1:c0', 'undated_memorandum_16764:p1:c1', 'undated_memorandum_16964:p1:c0']
