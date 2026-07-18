@@ -1,0 +1,97 @@
+
+====================================================================================================
+K = 3
+
+RANK 1
+CHUNK: undated_memorandum_16661:p1:c0
+MEETING: Agenda Memorandum
+DOCUMENT: Memorandum
+PAGES: 1 - 1
+TEXT: Common Council Interview Committee Team C Meeting  Memorandum for Wednesday, April 8, 2026, 5:45 pm  This meeting was held in the Kelly Conference Room, Suite 155, City Hall, 401 N.  Morton St.  Note: Formal minutes are not produced for committee meetings; however, the  following summarizes actions taken at the following meeting of the Interview  Committee Team C.  The meeting was called to order at approximately 5:46 pm.  Committee members in person: Sydney Zulich - Chair, Dave Rollo, Isabel  Piedmont-Smith  Committee members present over Zoom: None  Committee members absent: None  Items covered during the meeting    Action: Piedmont-Smith moved and it was seconded by Rollo to interview James  Hutcheson and Cassie Shelton for the Historic Preservation Commission. The motion  was approved by a voice vote.  Action: Piedmont-Smith moved and it was seconded by Rollo to recommend to appoint 
+
+RANK 2
+CHUNK: undated_memorandum_16744:p1:c0
+MEETING: Common Council Team C Interview Committee Meeting
+DOCUMENT: Memorandum
+PAGES: 1 - 1
+TEXT: Bloomington Common Council - Interview Committee Team C Memorandum  Dunlap Conference Room, #235, City Hall, 401 N. Morton St, Bloomington,  Indiana.    Wednesday, April 22, 2026 at 5:45 pm  Note: Formal minutes are not produced for committee meetings; however, the  following summarizes actions taken at the following meeting of the Interview  Committee Team C.  The meeting was called to order at approximately 5:47 pm.  Committee Chair: Sydney Zulich  Committee members in person: Sydney Zulich, Isabel Piedmont-Smith  Committee members present over Zoom: None  Committee members absent: Dave Rollo  Topics Discussed:  Clerk’s Note: The team had selected Cassie Shelton and James Hutcheson for the  Historic Preservation Commission. However, one of the interviewees wasn't able to  attend the meeting due to a scheduling conflict, and the other interviewee never  responded. Because of this confli
+
+RANK 3
+CHUNK: undated_agenda_16691:p1:c0
+MEETING: Common Council Team C Interview Committee Meeting
+DOCUMENT: Agenda
+PAGES: 1 - 1
+TEXT: Common Council Interview Committee Team C Meeting  Wednesday, April 22, 2026, 5:45 pm  This meeting will be held in the Dunlap Conference Room, Room 235, City Hall,  401 N. Morton St., and may also be accessed via Zoom at the following link:  https://bloomington.zoom.us/j/81724229928?pwd=bheCSEg0uDqbvpb5DqainWs2Zr Qsha.1  Meeting ID: 817 2422 9928  Passcode: 170390  As a quorum of this Commission or its committees may be present, this gathering  constitutes a meeting under the Indiana Open Door Law (I.C. § 5-14-1.5). For that  reason, this statement provides notice that this meeting will occur and is open for the  public to attend, observe, and record what transpires.  Board Membership  Pursuant to applicable law and policy, and in compliance with Indiana Code  5-14-9-6, the following details are provided regarding the officers serving on this  committee:  Committee  Member  Appointed By
+
+====================================================================================================
+K = 10
+
+RANK 1
+CHUNK: undated_memorandum_16661:p1:c0
+MEETING: Agenda Memorandum
+DOCUMENT: Memorandum
+PAGES: 1 - 1
+TEXT: Common Council Interview Committee Team C Meeting  Memorandum for Wednesday, April 8, 2026, 5:45 pm  This meeting was held in the Kelly Conference Room, Suite 155, City Hall, 401 N.  Morton St.  Note: Formal minutes are not produced for committee meetings; however, the  following summarizes actions taken at the following meeting of the Interview  Committee Team C.  The meeting was called to order at approximately 5:46 pm.  Committee members in person: Sydney Zulich - Chair, Dave Rollo, Isabel  Piedmont-Smith  Committee members present over Zoom: None  Committee members absent: None  Items covered during the meeting    Action: Piedmont-Smith moved and it was seconded by Rollo to interview James  Hutcheson and Cassie Shelton for the Historic Preservation Commission. The motion  was approved by a voice vote.  Action: Piedmont-Smith moved and it was seconded by Rollo to recommend to appoint 
+
+RANK 2
+CHUNK: undated_memorandum_16744:p1:c0
+MEETING: Common Council Team C Interview Committee Meeting
+DOCUMENT: Memorandum
+PAGES: 1 - 1
+TEXT: Bloomington Common Council - Interview Committee Team C Memorandum  Dunlap Conference Room, #235, City Hall, 401 N. Morton St, Bloomington,  Indiana.    Wednesday, April 22, 2026 at 5:45 pm  Note: Formal minutes are not produced for committee meetings; however, the  following summarizes actions taken at the following meeting of the Interview  Committee Team C.  The meeting was called to order at approximately 5:47 pm.  Committee Chair: Sydney Zulich  Committee members in person: Sydney Zulich, Isabel Piedmont-Smith  Committee members present over Zoom: None  Committee members absent: Dave Rollo  Topics Discussed:  Clerk’s Note: The team had selected Cassie Shelton and James Hutcheson for the  Historic Preservation Commission. However, one of the interviewees wasn't able to  attend the meeting due to a scheduling conflict, and the other interviewee never  responded. Because of this confli
+
+RANK 3
+CHUNK: undated_agenda_16691:p1:c0
+MEETING: Common Council Team C Interview Committee Meeting
+DOCUMENT: Agenda
+PAGES: 1 - 1
+TEXT: Common Council Interview Committee Team C Meeting  Wednesday, April 22, 2026, 5:45 pm  This meeting will be held in the Dunlap Conference Room, Room 235, City Hall,  401 N. Morton St., and may also be accessed via Zoom at the following link:  https://bloomington.zoom.us/j/81724229928?pwd=bheCSEg0uDqbvpb5DqainWs2Zr Qsha.1  Meeting ID: 817 2422 9928  Passcode: 170390  As a quorum of this Commission or its committees may be present, this gathering  constitutes a meeting under the Indiana Open Door Law (I.C. § 5-14-1.5). For that  reason, this statement provides notice that this meeting will occur and is open for the  public to attend, observe, and record what transpires.  Board Membership  Pursuant to applicable law and policy, and in compliance with Indiana Code  5-14-9-6, the following details are provided regarding the officers serving on this  committee:  Committee  Member  Appointed By
+
+RANK 4
+CHUNK: undated_agenda_16930:p1:c0
+MEETING: Common Council Team B Interview Committee Meeting - Boards/Commissions
+DOCUMENT: Agenda
+PAGES: 1 - 1
+TEXT: Common Council Interview Committee Team B Meeting  Wednesday, June 3, 2026, 5:30 pm  This meeting will be held in the Dunlap Conference Room, Room 235, City Hall,  401 N. Morton St., and may also be accessed via Zoom at the following link:  https://bloomington.zoom.us/j/89020560362?pwd=QrxwlzVyEdlNp4DvKnSHWyhlZsr mbF.1  Meeting ID: 890 2056 0362  Passcode: 384243  As a quorum of this Commission or its committees may be present, this gathering  constitutes a meeting under the Indiana Open Door Law (I.C. § 5-14-1.5). For that  reason, this statement provides notice that this meeting will occur and is open for the  public to attend, observe, and record what transpires.  Board Membership  Pursuant to applicable law and policy, and in compliance with Indiana Code  5-14-9-6, the following details are provided regarding the officers serving on this  committee:  Committee  Member  Appointed By A
+
+RANK 5
+CHUNK: undated_memorandum_16964:p1:c0
+MEETING: Common Council Team B Interview Committee Meeting - Boards/Commissions
+DOCUMENT: Memorandum
+PAGES: 1 - 1
+TEXT: Bloomington Common Council - Interview Committee Team B Memorandum  Dunlap Conference Room, #235, City Hall, 401 N. Morton St, Bloomington,  Indiana.    Wednesday, June 3, 2026 at 5:30 pm  Note: Formal minutes are not produced for committee meetings; however, the  following summarizes actions taken at the following meeting of the Interview  Committee Team B.  The meeting was called to order at approximately 5:57 pm.  Committee Chair: Andy Ruff  Committee members in person: Courtney Daily, Andy Ruff  Committee members present over Zoom: None  Committee members absent: Matt Flaherty  Topics Discussed:  Clerk’s Note: The team discussed interviewing two applicants for the Dr. MLK Birthday  Celebration Commission and will work on interviews during the council recess.  Adjournment  Meeting adjourned at approximately 5:57 pm.
+
+RANK 6
+CHUNK: undated_packet-2_16737:p1:c0
+MEETING: CANCELED-Common Council Hiring Committee Meeting
+DOCUMENT: Packet(2)
+PAGES: 1 - 1
+TEXT: CANCELED    Public Notice Common Council Hiring Committee  Thursday, April 23, 2026 at 5:30pm  Allison Conference Room #225, City Hall, 401 North Morton Street      Zoom Link:  https://bloomington.zoom.us/j/85328057524?pwd=xQrenSy0T49kx70QexJUmk2BEbruMM.1    Meeting ID: 853 2805 7524  Passcode: 588502    ---    One tap mobile  +13092053325,,85328057524#,,,,*588502# US  +13126266799,,85328057524#,,,,*588502# US (Chicago)              As a quorum of the Council or its committee may be present, this gathering constitutes a meeting  under the Indiana Open Door Law (I.C. § 5-14-14-1.5). For that reason, this statement provides notice  that this meeting will occur and is open for the public to attend, observe, and record what transpires.    Pursuant to applicable law and policy, the following details are provided regarding the officers serving  on this committee:  ●​ Committee Members (Appoint
+
+RANK 7
+CHUNK: undated_agenda_16627:p1:c0
+MEETING: Agenda Memorandum
+DOCUMENT: Agenda
+PAGES: 1 - 1
+TEXT: Common Council Interview Committee Team C Meeting  Wednesday, April 8, 2026, 5:45 pm  This meeting will be held in the Kelly Conference Room, Room 155, City Hall, 401 N.  Morton St., and may also be accessed via Zoom at the following link:  https://bloomington.zoom.us/j/86865578473?pwd=fbUm74HyaJH291U4VZMPKIbnS OTQXn.1  Meeting ID: 868 6557 8473  Passcode: 037983  As a quorum of this Commission or its committees may be present, this gathering  constitutes a meeting under the Indiana Open Door Law (I.C. § 5-14-1.5). For that  reason, this statement provides notice that this meeting will occur and is open for the  public to attend, observe, and record what transpires.    Board Membership  Pursuant to applicable law and policy, and in compliance with Indiana Code  5-14-9-6, the following details are provided regarding the officers serving on this  committee:    The City of Bloomington is co
+
+RANK 8
+CHUNK: undated_packet_16636:p1:c0
+MEETING: Common Council Hiring Committee Meeting
+DOCUMENT: Packet
+PAGES: 1 - 1
+TEXT: Common Council Hiring Committee Meeting Public Notice  Tuesday, April 14, 2026 at 5:30pm  Allison Conference Room #225, City Hall, 401 North Morton Street  Zoom Link:  https://bloomington.zoom.us/j/87190831056?pwd=h6wvgApl2hmml4QcGnrr6cm4leLKKm.1  Meeting ID: 871 9083 1056  Passcode: 658221  ---  One tap mobile  +13017158592,,87190831056#,,,,*658221# US (Washington DC)  +13052241968,,87190831056#,,,,*658221# US      As a quorum of the Council or its committees may be present, this gathering constitutes a meeting  under the Indiana Open Door Law (I.C. § 5-14-1.5). For that reason, this statement provides notice  that this meeting will occur and is open for the public to attend, observe, and record what transpires.    Pursuant to applicable law and policy, the following details are provided regarding the officers serving  on this committee:  ●​ Committee Members (Appointed by Council Presi
+
+RANK 9
+CHUNK: undated_packet-2_16737:p1:c1
+MEETING: CANCELED-Common Council Hiring Committee Meeting
+DOCUMENT: Packet(2)
+PAGES: 1 - 1
+TEXT:  on this committee:  ●​ Committee Members (Appointed by Council President): Isak Nti Asare (Chair), Isabel  Piedmont-Smith, Dave Rollo, Sydney Zulich  … ●​ Term: 02/25/2026-02/24/2027    Common Council [Committee] meetings can be accessed on the following websites:  ●​ Community Action Television Services (CATS): https://catstv.net  ●​ YouTube: https://youtube.com/@citybloomington  Background materials and packets are available at: https://bloomington.in.gov/council/meetings      Office of the City Clerk  Posted: Thursday, April 23, 2026
+
+RANK 10
+CHUNK: undated_packet_16717:p1:c0
+MEETING: CANCELED-Common Council Hiring Committee Meeting
+DOCUMENT: Packet
+PAGES: 1 - 1
+TEXT: Public Notice Common Council Hiring Committee  Thursday, April 23, 2026 at 5:30pm  Allison Conference Room #225, City Hall, 401 North Morton Street      The meeting may be accessed remotely1.    Meeting ID: 853 2805 7524  Passcode: 588502  ---  One tap mobile  +13092053325,,85328057524#,,,,*588502# US  +13126266799,,85328057524#,,,,*588502# US (Chicago)                  As a quorum of the Council or its committee may be present, this gathering constitutes a meeting  under the Indiana Open Door Law (I.C. § 5-14-14-1.5). For that reason, this statement provides notice  that this meeting will occur and is open for the public to attend, observe, and record what transpires.    Pursuant to applicable law and policy, the following details are provided regarding the officers serving  on this committee:  ●​ Committee Members (Appointed by Council President): Isak Nti Asare (Chair), Isabel  Piedmo
